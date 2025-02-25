@@ -2,6 +2,7 @@
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/e9/9a/38e99aa6-3948-8d6c-c1a9-46e0fada4716/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/1200x630wa.png)
 
 An Alexa skill that streams **Kantipur Radio**, Nepal's leading radio station, to Alexa-enabled devices.
+https://www.amazon.in/dp/B0DXF95QKZ/
 
 ## 📌 Description
 
@@ -116,6 +117,7 @@ kantipur-radio-skill/
    - Test in the Alexa Simulator
 
 ---
+![](https://github.com/abh2050/3-python-alexa-audio-streaming-example-skill/blob/main/alexaskill.png)
 
 ## 🔑 Requirements
 
